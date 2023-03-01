@@ -1,0 +1,29 @@
+pwd
+cd a b c d
+mkdir blah blah
+touch a a a
+cp a a a a
+mv a a a a
+rm a a a a
+rmdir a a a a
+adduser sd  sd 
+deluser a a
+su a a 
+ls asd a a a a a
+chmod  a a a a
+chown a a a a
+a
+pwd a
+mkdir sd;'[ 
+mkdir -p @$#
+touch!
+touch !@
+mkdir dir
+cp !@ dir
+cp dir #!
+touch file
+mv file !
+mv ! file
+rm !@
+rmdir !@
+exit

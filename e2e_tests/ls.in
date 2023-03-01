@@ -1,0 +1,13 @@
+ls
+ls -l 
+mkdir test
+cd test
+ls
+ls -l
+cd ..
+ls
+ls -l
+touch file
+ls -l
+ls
+exit

@@ -1,0 +1,8 @@
+root:/$ 
+root:/$ root:/$ root:/$ root:/test$ 
+root:/test$ root:/test$ root:/$ test
+root:/$ drwxr-x root test
+root:/$ root:/$ drwxr-x root test
+-rw-r-- root file
+root:/$ file test
+root:/$ bye, root

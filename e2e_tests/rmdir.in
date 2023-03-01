@@ -1,0 +1,23 @@
+touch file
+rmdir file
+rmdir /
+mkdir dir
+cd dir
+pwd
+rmdir /dir
+mkdir dir2
+touch dir2/file
+ls -l 
+touch dir2/file
+mkdir dir2
+touch file2
+cd ..
+rmdir dir
+rmdir random
+mkdir dir2/dir3
+mkdir dir2
+mkdir dir2/dir3
+rmdir dir2/dir3
+ls -l
+rmdir dir2
+exit

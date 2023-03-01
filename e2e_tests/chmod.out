@@ -1,0 +1,58 @@
+root:/$ root:/$ drwxr-x root dir
+root:/$ root:/$ dr--r-- root dir
+root:/$ root:/$ d-w--w- root dir
+root:/$ root:/$ d--x--x root dir
+root:/$ root:/$ d------ root dir
+root:/$ root:/$ dr--r-- root dir
+root:/$ root:/$ drw-rw- root dir
+root:/$ root:/$ drwxrwx root dir
+root:/$ root:/$ d-wx-wx root dir
+root:/$ root:/$ d--x--x root dir
+root:/$ root:/$ d------ root dir
+root:/$ root:/$ dr----- root dir
+root:/$ root:/$ d-w---- root dir
+root:/$ root:/$ d--x--- root dir
+root:/$ root:/$ d-wx--- root dir
+root:/$ root:/$ drwx--- root dir
+root:/$ root:/$ drwx--- root dir
+root:/$ root:/$ root:/$ root:/$ d------ root dir
+root:/$ root:/$ root:/$ root:/$ root:/$ root:/$ root:/$ root:/$ root:/$ root:/$ root:/$ root:/$ d------ root dir
+root:/$ root:/$ d------ root dir
+-rw-r-- root file
+root:/$ root:/$ d------ root dir
+-r--r-- root file
+root:/$ root:/$ d------ root dir
+--w--w- root file
+root:/$ root:/$ d------ root dir
+---x--x root file
+root:/$ root:/$ d------ root dir
+------- root file
+root:/$ root:/$ d------ root dir
+-r--r-- root file
+root:/$ root:/$ d------ root dir
+-rw-rw- root file
+root:/$ root:/$ d------ root dir
+-rwxrwx root file
+root:/$ root:/$ d------ root dir
+--wx-wx root file
+root:/$ root:/$ d------ root dir
+---x--x root file
+root:/$ root:/$ d------ root dir
+------- root file
+root:/$ root:/$ d------ root dir
+-r----- root file
+root:/$ root:/$ d------ root dir
+--w---- root file
+root:/$ root:/$ d------ root dir
+---x--- root file
+root:/$ root:/$ d------ root dir
+--wx--- root file
+root:/$ root:/$ d------ root dir
+-rwx--- root file
+root:/$ root:/$ d------ root dir
+-rwx--- root file
+root:/$ root:/$ root:/$ root:/$ d------ root dir
+------- root file
+root:/$ root:/$ root:/$ root:/$ root:/$ root:/$ root:/$ root:/$ root:/$ root:/$ root:/$ root:/$ d------ root dir
+------- root file
+root:/$ bye, root

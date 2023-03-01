@@ -1,0 +1,16 @@
+root:/$ root:/$ rmdir: Not a directory
+root:/$ rmdir: Cannot remove pwd
+root:/$ root:/$ root:/dir$ /dir
+root:/dir$ rmdir: Cannot remove pwd
+root:/dir$ root:/dir$ touch: Ancestor directory does not exist
+root:/dir$ drwxr-x root dir2
+root:/dir$ touch: Ancestor directory does not exist
+root:/dir$ mkdir: File exists
+root:/dir$ root:/dir$ root:/$ rmdir: Directory not empty
+root:/$ rmdir: No such file or directory
+root:/$ mkdir: Ancestor directory does not exist
+root:/$ root:/$ root:/$ root:/$ -rw-r-- root file
+drwxr-x root dir
+-rw-r-- root file2
+drwxr-x root dir2
+root:/$ root:/$ bye, root

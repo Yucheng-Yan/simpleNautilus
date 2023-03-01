@@ -1,0 +1,9 @@
+adduser test
+su test
+su
+su non
+adduser test
+deluser test
+deluser test
+deluser root
+exit

@@ -1,0 +1,7 @@
+root:/$ root:/$ root:/$ -rw-r-- root file
+root:/$ root:/$ -rw-r-- usr file
+root:/$ chown: Invalid user
+root:/$ chown: No such file or directory
+root:/$ usr:/$ chown: Operation not permitted
+usr:/$ root:/$ root:/$ root:/$ chown: No such file or directory
+root:/$ bye, root

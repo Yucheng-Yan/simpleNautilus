@@ -1,0 +1,18 @@
+root:/$ root:/$ touch: Ancestor directory does not exist
+root:/$ root:/$ cp: File exists
+root:/$ cp: Destination is a directory
+root:/$ cp: No such file
+root:/$ root:/$ cp: Destination is a directory
+root:/$ cp: Source is a directory
+root:/$ root:/$ root:/$ cp: No such file
+root:/$ root:/$ cp: File exists
+root:/$ mkdir: Ancestor directory does not exist
+root:/$ root:/$ cp: No such file
+root:/$ cp: Invalid syntax
+root:/$ cp: No such file
+root:/$ cp: No such file
+root:/$ cp: No such file or directory
+root:/$ root:/$ root:/$ root:/$ root:/$ root:/$ mkdir: File exists
+root:/$ mkdir: File exists
+root:/$ root:/$ root:/$ root:/$ root:/$ cp: Destination is a directory
+root:/$ bye, root

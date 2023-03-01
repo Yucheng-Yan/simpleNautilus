@@ -1,0 +1,22 @@
+mkdir test
+cd /
+cd .
+cd ..
+cd ./././././..
+cd /././././././..
+cd test
+mkdir test2
+mkdir test3
+touch file
+cd file
+cd test2/test3
+cd test2
+cd ..
+cd test3
+cd ..
+mkdir test2/test4
+cd test2/test4
+cd
+pwd
+cd /
+exit

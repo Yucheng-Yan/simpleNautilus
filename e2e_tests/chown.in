@@ -1,0 +1,14 @@
+touch file
+adduser usr 
+ls -l
+chown usr file
+ls -l
+chown non file
+chown usr non
+su usr
+chown root file
+su
+mkdir test
+touch /test/file
+chown usr /test/file       
+exit

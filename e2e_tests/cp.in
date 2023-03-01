@@ -1,0 +1,34 @@
+mkdir test
+touch tet/file
+touch test/file
+cp test/filenon /
+cp file test    
+cp test/filenon file
+touch file2
+cp file2 test
+cp test test3
+cp test/file file
+cp test/file file
+cp file file
+touch file
+cp file file
+mkdir dir/dir2          
+mkdir -p dir/dir2
+cp dir/dir2/filenon random
+cp dir /dir2 test
+cp /dir/dir2/dir3/dir4/filenon random
+cp /dir/dir2/dir3/dir4/filenon /test/test1/test2/test3
+cp file test1/test3/test8
+mkdir dir1
+mkdir dir2
+touch dir1/file1
+touch dir2/file2
+cp dir1/file1 dir2/file3
+mkdir dir1
+mkdir dir2
+touch dir1/file
+touch dir2/file
+cp dir1/./.././dir1/file dir2/.././././file3
+touch fil
+cp fil .
+exit

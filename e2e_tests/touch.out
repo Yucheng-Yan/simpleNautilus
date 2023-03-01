@@ -1,0 +1,5 @@
+root:/$ root:/$ root:/$ touch: Ancestor directory does not exist
+root:/$ root:/$ root:/$ root:/test$ /test
+root:/test$ root:/test$ touch: Ancestor directory does not exist
+root:/test$ root:/test$ touch: Ancestor directory does not exist
+root:/test$ root:/$ root:/$ root:/$ root:/$ bye, root

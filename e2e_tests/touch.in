@@ -1,0 +1,16 @@
+touch file1
+touch file1
+touch /dir1/file
+mkdir test
+touch /test/file2
+cd test 
+pwd
+mkdir test
+touch /test/non_dir/non_dir2/file3
+mkdir -p /test/non_dir/non_dir2
+touch test/non_dir/non_dir2/file3
+cd /
+mkdir -p dir/dir2/dir3
+touch dir/dir2/dir3/test_file
+touch dir/dir2/dir3/test_file
+exit

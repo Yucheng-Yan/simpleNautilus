@@ -1,0 +1,17 @@
+mkdir dir
+rm dir
+touch file1
+rm dile1
+rm file1
+touch dir/dir2/file
+mkdir -p dir1/dir2/dir3
+touch dir1/dir2/dir3/file2
+rm dir1/dir2/dir3/file2
+touch dir1/dir2/file3
+rm /dir1/dir2/file3
+cd dir1
+cd dir2
+ls -l
+touch fil
+rm ./fil
+exit

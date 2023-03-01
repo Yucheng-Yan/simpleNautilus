@@ -1,0 +1,27 @@
+root:/$ /
+root:/$ cd: Invalid syntax
+root:/$ mkdir: Invalid syntax
+root:/$ touch: Invalid syntax
+root:/$ cp: Invalid syntax
+root:/$ mv: Invalid syntax
+root:/$ rm: Invalid syntax
+root:/$ rmdir: Invalid syntax
+root:/$ adduser: Invalid syntax
+root:/$ deluser: Invalid syntax
+root:/$ su: Invalid syntax
+root:/$ ls: Invalid syntax
+root:/$ chmod: Invalid syntax
+root:/$ chown: Invalid syntax
+root:/$ a: Command not found
+root:/$ pwd: Invalid syntax
+root:/$ mkdir: Invalid syntax
+root:/$ mkdir: Invalid syntax
+root:/$ touch!: Command not found
+root:/$ touch: Invalid syntax
+root:/$ root:/$ cp: Invalid syntax
+root:/$ cp: Invalid syntax
+root:/$ root:/$ mv: Invalid syntax
+root:/$ mv: Invalid syntax
+root:/$ rm: Invalid syntax
+root:/$ rmdir: Invalid syntax
+root:/$ bye, root

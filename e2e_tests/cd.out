@@ -1,0 +1,5 @@
+root:/$ root:/$ root:/$ root:/$ root:/$ root:/$ root:/$ root:/test$ root:/test$ root:/test$ root:/test$ cd: No such file or directory
+root:/test$ cd: No such file or directory
+root:/test$ root:/test/test2$ root:/test$ root:/test/test3$ root:/test$ root:/test$ root:/test/test2/test4$ cd: Invalid syntax
+root:/test/test2/test4$ /test/test2/test4
+root:/test/test2/test4$ root:/$ bye, root

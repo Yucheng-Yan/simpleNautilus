@@ -1,0 +1,5 @@
+root:/$ root:/$ rm: Is a directory
+root:/$ root:/$ rm: No such file
+root:/$ root:/$ touch: Ancestor directory does not exist
+root:/$ root:/$ root:/$ root:/$ root:/$ root:/$ root:/dir1$ root:/dir1/dir2$ drwxr-x root dir3
+root:/dir1/dir2$ root:/dir1/dir2$ root:/dir1/dir2$ bye, root

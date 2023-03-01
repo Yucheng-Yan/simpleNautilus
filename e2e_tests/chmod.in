@@ -1,0 +1,101 @@
+mkdir dir
+ls -l
+chmod a=r dir
+ls -l
+chmod a=w dir
+ls -l
+chmod a=x dir
+ls -l
+chmod a= dir
+ls -l
+chmod a+r dir
+ls -l
+chmod a+w dir
+ls -l
+chmod a+x dir
+ls -l
+chmod a-r dir
+ls -l
+chmod a-w dir
+ls -l
+chmod a-x dir
+ls -l
+chmod u=r dir
+ls -l
+chmod u=w dir
+ls -l
+chmod u=x dir
+ls -l
+chmod u+w dir
+ls -l
+chmod u+r dir
+ls -l
+chmod u+x dir 
+ls -l
+chmod u-r dir
+chmod u-w dir
+chmod u-x dir
+ls -l
+chmod u= dir
+chmod o= dir
+chmod o=r dir
+chmod o=w dir
+chmod o=x dir
+chmod o+r dir
+chmod o+w dir
+chmod o+x dir
+chmod o-r dir
+chmod o-w dir
+chmod o-x dir
+ls -l
+touch file
+ls -l
+chmod a=r file
+ls -l
+chmod a=w file
+ls -l
+chmod a=x file
+ls -l
+chmod a= file
+ls -l
+chmod a+r file
+ls -l
+chmod a+w file
+ls -l
+chmod a+x file
+ls -l
+chmod a-r file
+ls -l
+chmod a-w file
+ls -l
+chmod a-x file
+ls -l
+chmod u=r file
+ls -l
+chmod u=w file
+ls -l
+chmod u=x file
+ls -l
+chmod u+w file
+ls -l
+chmod u+r file
+ls -l
+chmod u+x file 
+ls -l
+chmod u-r file
+chmod u-w file
+chmod u-x file
+ls -l
+chmod u= file
+chmod o= file
+chmod o=r file
+chmod o=w file
+chmod o=x file
+chmod o+r file
+chmod o+w file
+chmod o+x file
+chmod o-r file
+chmod o-w file
+chmod o-x file
+ls -l
+exit
